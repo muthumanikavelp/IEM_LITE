@@ -1,0 +1,7 @@
+F:\User\IEM Proudct\IEM_LITE\IEM_LITE\IEMLITE.Common1\bin\Debug\IEMLITE.Common1.dll
+F:\User\IEM Proudct\IEM_LITE\IEM_LITE\IEMLITE.Common1\bin\Debug\IEMLITE.Common1.pdb
+F:\User\IEM Proudct\IEM_LITE\IEM_LITE\IEMLITE.Common1\bin\Debug\IEM_LITE.BAL.dll
+F:\User\IEM Proudct\IEM_LITE\IEM_LITE\IEMLITE.Common1\bin\Debug\IEM_LITE.BAL.pdb
+F:\User\IEM Proudct\IEM_LITE\IEM_LITE\IEMLITE.Common1\obj\Debug\IEMLITE.Common1.csprojResolveAssemblyReference.cache
+F:\User\IEM Proudct\IEM_LITE\IEM_LITE\IEMLITE.Common1\obj\Debug\IEMLITE.Common1.dll
+F:\User\IEM Proudct\IEM_LITE\IEM_LITE\IEMLITE.Common1\obj\Debug\IEMLITE.Common1.pdb
